@@ -1,4 +1,4 @@
-module github.com/cyberradar/daemon
+module github.com/cyberadar/daemon
 
 go 1.14
 
